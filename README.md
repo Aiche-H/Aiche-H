@@ -20,6 +20,7 @@ class HenrikkiGren {
   }
 
   makeProjectAwesome(project) {
+    project.isAwesome = true;
     console.log(`With my skills, I'm making ${project.name} an awesome project!`);
   }
 }
@@ -27,37 +28,23 @@ class HenrikkiGren {
 class Project {
   constructor(name) {
     this.name = name;
-    this.contributors = [];
     this.isAwesome = false;
   }
 
   addContributor(contributor) {
-    this.contributors.push(contributor);
     if (contributor instanceof HenrikkiGren) {
       contributor.makeProjectAwesome(this);
-      this.isAwesome = true;
     }
   }
 
   getStatus() {
-    if (this.isAwesome) {
-      console.log(`${this.name} is now an awesome project!`);
-    } else {
-      console.log(`${this.name} is still not awesome.`);
-    }
+    console.log(`${this.name} is ${this.isAwesome ? 'now an awesome' : 'still not awesome'} project.`);
   }
 }
 
-// Create a new project
 const myProject = new Project('My Awesome Project');
-
-// Create a new HenrikkiGren
 const henrikki = new HenrikkiGren();
-
-// Add Henrikki to the project
 myProject.addContributor(henrikki);
-
-// Check the status of the project
 myProject.getStatus();
 ````
 
