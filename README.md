@@ -1,3 +1,6 @@
+While Markdown itself doesn't support interactive elements like buttons, we can achieve a similar effect using a combination of Markdown and HTML. Here's the updated version:
+
+````markdown
 ## **Henrikki Gren**
 
 **Web Development Maverick**
@@ -13,7 +16,7 @@ class WebDeveloper {
     };
   }
 }
-```
+````
 
   * **Projects:**
 
@@ -31,7 +34,14 @@ class WebDeveloper {
 
 | Skill | Level (out of 5) |
 |---|---|
-| ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ⭐⭐⭐⭐ |
-| ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ⭐⭐⭐⭐ |
-| ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ⭐⭐⭐ |
-| ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ⭐⭐ |
+| ![HTML5 Badge](about:sanitized) | ⭐⭐⭐⭐ |
+| ![CSS3 Badge](about:sanitized) | ⭐⭐⭐⭐ |
+| ![JavaScript Badge](about:sanitized) | ⭐⭐⭐ |
+| ![MySQL Badge](about:sanitized) | ⭐⭐ |
+
+**Follow me on GitHub\!**
+
+<a href="https://github.com/Aiche-H" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-21C699?style=for-the-badge&logo=GitHub" alt="Follow on GitHub Badge">
+</a>
+```
