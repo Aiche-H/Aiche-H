@@ -17,8 +17,25 @@ class WebDeveloper {
       css: 'Styling with flair',
       sql: 'Querying the data'
     };
+
+    this.projects = {
+      "Awesome Project": {
+        description: "A fantastic project showcasing my skills.",
+        technologies: ["HTML", "CSS", "JavaScript"],
+        result: "Awesome!"
+      }
+    };
   }
 }
+
+// Create an instance of the WebDeveloper class
+const developer = new WebDeveloper();
+
+// Access the project information
+const awesomeProject = developer.projects["Awesome Project"];
+
+// Display the project result
+console.log(awesomeProject.result); // Output: Awesome!
 ````
 
 * **Projects:**
