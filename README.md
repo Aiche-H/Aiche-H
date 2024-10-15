@@ -2,14 +2,15 @@
  
 </div>
 
-<div align="center">
+
+  <div align="center">
   <a href="https://github.com/Aiche-H/stargazers">
     <img src="https://img.shields.io/github/followers/Aiche-H?style=social" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/Aiche-H/Aiche-H">
-    <img src="https://img.shields.io/github/stars/Aiche-H/Aiche-H?style=social" alt="Follow Aiche-H's Repo">
-  </a>
+  <a href="https://github.com/Aiche-H">
+    <img src="https://img.shields.io/github/stars/Aiche-H?style=social" alt="Aiche-H's GitHub Stars">  </a>
 </div>
+
 
 ## **Henrikki Gren**
 
