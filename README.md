@@ -9,7 +9,7 @@
 **Web Development Maverick**
 
 ```javascript
-class WebDeveloper {
+class HenrikkiGren {
   constructor() {
     this.skills = {
       javascript: 'Crafting interactive experiences',
@@ -17,25 +17,48 @@ class WebDeveloper {
       css: 'Styling with flair',
       sql: 'Querying the data'
     };
+  }
 
-    this.projects = {
-      "Awesome Project": {
-        description: "A fantastic project showcasing my skills.",
-        technologies: ["HTML", "CSS", "JavaScript"],
-        result: "Awesome!"
-      }
-    };
+  makeProjectAwesome(project) {
+    console.log(`With my skills, I'm making ${project.name} an awesome project!`);
   }
 }
 
-// Create an instance of the WebDeveloper class
-const developer = new WebDeveloper();
+class Project {
+  constructor(name) {
+    this.name = name;
+    this.contributors = [];
+    this.isAwesome = false;
+  }
 
-// Access the project information
-const awesomeProject = developer.projects["Awesome Project"];
+  addContributor(contributor) {
+    this.contributors.push(contributor);
+    if (contributor instanceof HenrikkiGren) {
+      contributor.makeProjectAwesome(this);
+      this.isAwesome = true;
+    }
+  }
 
-// Display the project result
-console.log(awesomeProject.result); // Output: Awesome!
+  getStatus() {
+    if (this.isAwesome) {
+      console.log(`${this.name} is now an awesome project!`);
+    } else {
+      console.log(`${this.name} is still not awesome.`);
+    }
+  }
+}
+
+// Create a new project
+const myProject = new Project('My Awesome Project');
+
+// Create a new HenrikkiGren
+const henrikki = new HenrikkiGren();
+
+// Add Henrikki to the project
+myProject.addContributor(henrikki);
+
+// Check the status of the project
+myProject.getStatus();
 ````
 
 * **Projects:**
