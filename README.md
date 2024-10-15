@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://aiche-h.github.io/Portfolio/assets/images/mypic.jpg" width="200" height="200" alt="Aiche-H's Profile Picture">
+ 
 </div>
 
 <div align="center">
