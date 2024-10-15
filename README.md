@@ -9,10 +9,10 @@
   * SQL: Querying the data
 
 * **Projects:**
-  * Unleash your creativity on my GitHub: [Link to your GitHub](https://github.com/Aiche-H?tab=repositories)
+  * I have my creativity captured in: [Github projects](https://github.com/Aiche-H?tab=repositories)
 
 * **Portfolio:**
-  * Witness my web magic: [Link to your portfolio](https://aiche-h.github.io/Portfolio/)
+  * Witness my web magic: [Here](https://aiche-h.github.io/Portfolio/)
 
 **Contact:**
   * Ignite the collaboration spark: Reach out via my portfolio!
