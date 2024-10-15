@@ -31,7 +31,7 @@ class WebDeveloper {
 
 | Skill | Level (out of 5)|
 |---|---|
-| [![HTML5](about:sanitized)](https://www.w3schools.com/html/) HTML | ⭐⭐⭐⭐ |
-| [![CSS3](about:sanitized)](https://www.w3schools.com/css/) CSS | ⭐⭐⭐⭐ |
-| [![JavaScript](about:sanitized)](https://www.w3schools.com/js/) JavaScript | ⭐⭐⭐ |
+| HTML | ⭐⭐⭐⭐ |
+| CSS | ⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐ |
 | SQL | ⭐⭐ |
