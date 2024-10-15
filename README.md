@@ -1,9 +1,15 @@
-**Follow me on GitHub\!**
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/162592867?v=4" width="200" height="200" style="border-radius: 50%;" alt="Aiche-H's Profile Picture">
+</div>
 
-<a href="https://github.com/Aiche-H" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-21C699?style=for-the-badge&logo=GitHub" alt="Follow on GitHub Badge">
-</a>
-
+<div align="center">
+  <a href="https://github.com/Aiche-H/stargazers">
+    <img src="https://img.shields.io/github/followers/Aiche-H?style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/Aiche-H/Aiche-H">
+    <img src="https://img.shields.io/github/stars/Aiche-H/Aiche-H?style=social" alt="Follow Aiche-H's Repo">
+  </a>
+</div>
 ## **Henrikki Gren**
 
 **Web Development Maverick**
