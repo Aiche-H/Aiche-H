@@ -1,17 +1,13 @@
 <div align="center">
- 
-</div>
-
-
-  <div align="center">
   <a href="https://github.com/Aiche-H">
-    <img src="https://img.shields.io/github/followers/Aiche-H?style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Aiche-H"   
+ alt="GitHub Forks">
   </a>
-  <a href="https://github.com/Aiche-H/stargazers">
-    <img src="https://img.shields.io/github/stars/Aiche-H?style=social" alt="Aiche-H's GitHub Stars">
+  <a href="https://github.com/Aiche-H">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Aiche-H"   
+ alt="GitHub Stars">
   </a>
 </div>
-
 
 ## **Henrikki Gren**
 
