@@ -43,7 +43,7 @@ class Project {
   }
 
   getStatus() {
-    console.log(`${this.name} is ${this.isAwesome ? 'now an awesome' : 'still not awesome'} project.`);
+    console.log(`${this.name} is ${this.isAwesome ? 'now an awesome' : 'still not an awesome'} project.`);
   }
 }
 
