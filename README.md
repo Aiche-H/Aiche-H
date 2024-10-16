@@ -47,7 +47,7 @@ class Project {
   }
 }
 
-const myProject = new Project('My Awesome Project');
+const myProject = new Project('the Project');
 const henrikki = new HenrikkiGren();
 myProject.addContributor(henrikki);
 myProject.getStatus();
