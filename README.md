@@ -21,7 +21,7 @@ class HenrikkiGren {
       html: 'Building the foundation',
       css: 'Styling with flair',
       sql: 'Querying the data'
-    };
+    }
   }
 
   makeProjectAwesome(project) {
