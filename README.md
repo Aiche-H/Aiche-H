@@ -65,34 +65,11 @@ myProject.getStatus();
 
   * Ignite the collaboration spark: Reach out via my portfolio\!
 
-<div align="center">
-  <h2>Skills</h2>
-  <table>
-    <thead>
-      <tr>
-        <th>Skill</th>
-        <th>Level (out of 5)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
-        <td>⭐⭐⭐⭐</td>   
+## Skills
 
-  </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></td>   
-
-  <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
-        <td>⭐⭐</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+| Skill | Level (out of 5) |
+|---|---|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> | ⭐⭐⭐⭐ |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> | ⭐⭐⭐⭐ |
+| <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> | ⭐⭐⭐ |
+| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> | ⭐⭐ |
