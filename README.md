@@ -14,7 +14,7 @@
 **Web Development Maverick**
 
 <details>
-<summary><strong>Expand to see i make a project awesome</strong></summary>
+<summary><strong>Expand to see how i make a project awesome</strong></summary>
   
 ```javascript
 class HenrikkiGren {
