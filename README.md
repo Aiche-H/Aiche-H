@@ -29,7 +29,12 @@ class HenrikkiGren {
     console.log(`With my skills, I'm making ${project.name} an awesome project!`);
   }
 }
+```
 
+<details>
+<summary>Expand to see the rest of the code</summary>
+
+```JavaScript
 class Project {
   constructor(name) {
     this.name = name;
@@ -51,7 +56,8 @@ const myProject = new Project('the Project');
 const henrikki = new HenrikkiGren();
 myProject.addContributor(henrikki);
 myProject.getStatus();
-````
+```
+</details>
 
 * **Projects:**
 
