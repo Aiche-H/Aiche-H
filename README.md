@@ -57,11 +57,11 @@ myProject.getStatus();
 ```
 </details>
 
-* **Projects:**
+**Projects:**
 
   * I have my creativity captured in: [Github projects](https://github.com/Aiche-H?tab=repositories)
 
-* **Portfolio:**
+**Portfolio:**
 
   * Witness my web magic: [Here](https://aiche-h.github.io/Portfolio/)
 
