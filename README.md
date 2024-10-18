@@ -9,10 +9,13 @@
   </a>
 </div>
 
-## **Henrikki Gren**
+# **Henrikki Gren**
 
 **Web Development Maverick**
 
+<details>
+<summary><strong>Expand to see i make a project awesome</strong></summary>
+  
 ```javascript
 class HenrikkiGren {
   constructor() {
@@ -29,12 +32,7 @@ class HenrikkiGren {
     console.log(`With my skills, I'm making ${project.name} an awesome project!`);
   }
 }
-```
 
-<details>
-<summary>Expand to see the rest of the code</summary>
-
-```JavaScript
 class Project {
   constructor(name) {
     this.name = name;
