@@ -58,7 +58,7 @@ myProject.getStatus();
 
   * Ignite the collaboration spark: Reach out via my portfolio\!
 
-**STATS**
+**Github Stats**
 
 ![Aiche-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiche-H&show_icons=true&theme=tokyonight)
 
