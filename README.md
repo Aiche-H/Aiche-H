@@ -1,14 +1,3 @@
-<div align="center">
-  <a href="https://github.com/Aiche-H">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Aiche-H"   
- alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/Aiche-H">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Aiche-H"   
- alt="GitHub Stars">
-  </a>
-</div>
-
 # **Henrikki Gren**
 
 **Web Development Maverick**
@@ -68,6 +57,12 @@ myProject.getStatus();
 **Contact:**
 
   * Ignite the collaboration spark: Reach out via my portfolio\!
+
+**STATS**
+
+![Aiche-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiche-H&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiche-H&show_icons=true&theme=tokyonight)
 
 ## Skills
 
