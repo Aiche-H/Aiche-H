@@ -1,6 +1,6 @@
 # **Henrikki Gren**
 
-**Web Development Maverick**
+**Web Development Maverick From Finland**
 
 <details>
 <summary><strong>Expand to see how i make a project awesome</strong></summary>
