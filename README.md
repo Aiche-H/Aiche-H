@@ -53,13 +53,3 @@ myProject.getStatus();
 **Portfolio:**
 
   * Witness my web magic: [Here](https://aiche-h.github.io/Portfolio/)
-
-**Contact:**
-
-  * Ignite the collaboration spark: Reach out via my portfolio\!
-
-**Github Stats**
-
-![Aiche-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiche-H&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiche-H&show_icons=true&theme=tokyonight)
