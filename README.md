@@ -4,7 +4,7 @@
 <summary><strong>Expand to see how i make a project awesome</strong></summary>
   
 ```javascript
-class HenrikkiGren {
+class HG {
   constructor() {
     this.skills = {
       javascript: 'Crafting interactive experiences',
@@ -27,7 +27,7 @@ class Project {
   }
 
   addContributor(contributor) {
-    if (contributor instanceof HenrikkiGren) {
+    if (contributor instanceof HG) {
       contributor.makeProjectAwesome(this);
     }
   }
@@ -38,8 +38,8 @@ class Project {
 }
 
 const myProject = new Project('the Project');
-const henrikki = new HenrikkiGren();
-myProject.addContributor(henrikki);
+const me = new HG();
+myProject.addContributor(me);
 myProject.getStatus();
 ```
 </details>
@@ -47,7 +47,3 @@ myProject.getStatus();
 **Projects:**
 
   * I have my creativity captured in: [Github projects](https://github.com/Aiche-H?tab=repositories)
-
-**Portfolio:**
-
-  * Witness my web magic: [Here](https://aiche-h.github.io/Portfolio/)
