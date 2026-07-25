@@ -1,5 +1,3 @@
-# **Henrikki Gren**
-
 **Web Development Maverick From Finland**
 
 <details>
